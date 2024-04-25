@@ -2,6 +2,7 @@
 
 ## 1. CU Dining Pair (Ruby on Rail)
 
+Youtube Video:
 https://youtu.be/G3090tlTq5Q
 
 #### Project Description: 
@@ -45,3 +46,22 @@ Other Filtering Functions: We recognize that users may sometimes prefer to dine 
 Patient Interaction: Patients will first register a user account for the reservation system. During this registration process, they will provide personal details such as their name, date of birth, email, pertinent medical history and insurance. Then patients will get their unique patient id. After that, patients can search for doctors based on department, specialty and proceed to schedule appointments according to their preferences. Furthermore, patients can keep track of their appointments, with access to comprehensive details, including the doctor's name, available appointment time, and status. During the payment process, patients are allowed to make payments through the platform linked with their insurance information conveniently.
 
 Doctor Interaction: Doctors are able to visualize their schedules and patient appointments in a dashboard after login. This feature ensures that they remain organized and informed about their clinical commitments. In addition, doctors also have access to comprehensive patient information, including medical records and insurance details, enabling them to provide personalized care.
+
+
+## 3. MSA Safety Company Capstone Project (AWS and Microsoft Azure)
+
+Website for more information:
+https://sites.psu.edu/lfshowcasefa21/2021/12/09/msa-image-detection-for-fall-protection/
+
+Youtube Video:
+https://www.youtube.com/watch?v=n25h-5c31L8
+
+#### Project Description:
+
+MSA is a safety company, they make PPE for personal and industrial use. One of their PPE systems for warehouses includes a lanyard (attached to the machine) and a harness (worn by the worker). Sometimes this connection gets disconnected, for a variety of reasons, without the worker noticing. We were asked to implement a system using Image Recognition that will overlook the connection and will be able to always provide an indication if the connection is compliant or non-compliant. The company provided us with access to AWS Rekognition software for the model training, we decided on also using Microsoft Azure Custom Vision.
+
+-The main goal was to provide MSA with software that is capable of detecting 2 elements; the harness D-ring and the lanyard hook, and then decide if they are connected properly or not.
+
+-The stretch goal was to provide MSA with a real-world prototype that can showcase this model’s performance and the optimal camera location.
+
+
