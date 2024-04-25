@@ -65,3 +65,23 @@ MSA is a safety company, they make PPE for personal and industrial use. One of t
 -The stretch goal was to provide MSA with a real-world prototype that can showcase this model’s performance and the optimal camera location.
 
 
+## 4. Best Data Virtualization Prize of 2022 PSU Data Festival
+
+Official Webpage:
+https://datafest.psu.edu/previous/_2022/
+
+Youtube Video:
+https://www.youtube.com/watch?v=2fMVNcUxxNM&t=33s
+
+#### Description:
+
+Analyzed over 40,000 lines of player log data from the Elm City Stories game, utilizing Python and RStudio to uncover intricate
+relationships between in-game activities and real-life player behaviors and devised critical metrics for evaluating extensive
+datasets, showcasing the ability to distill large volumes of data into actionable insights
+
+Led the visualization of complex data analysis using Tableau, creating compelling visual stories that highlighted key findings and
+insights, which culminated in our team being awarded the Best Data Virtualization Prize among dozens of competing groups for
+our outstanding ability to translate complex data into understandable and impactful visualizations
+
+Directed a team effort that bridged technical analysis with creative data storytelling, emphasizing the practical application of data visualization skills in solving real-world problems
+
